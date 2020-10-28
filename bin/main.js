@@ -63,6 +63,7 @@ class PlayGame {
         }
       } else {
         console.log(`compPlay: ${compPlay}, user: ${this.playerChoice}`)
+        console.log('Something went wrong... choose rock, paper, or scissors')
       }
   }
 
